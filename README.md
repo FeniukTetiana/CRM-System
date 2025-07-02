@@ -1,6 +1,7 @@
 # CRM System
 ## Project Overview
 This is a team project focused on developing and maintaining a comprehensive CRM (Customer Relationship Management) system. It allows administrators to efficiently manage organizations, branches, schedules, client databases, services, employees, and ensure data security. The system also automatically records client visit history, providing a robust solution for business management.
+http://ec2-56-228-80-43.eu-north-1.compute.amazonaws.com:8080/swagger-ui/index.html
 
 ## Key Features and Functionality
 Here are the main features and components of the system, developed by our team:
